@@ -2,12 +2,18 @@
   "name": "has-vulnerabilities",
   "version": "1.0.0",
   "dependencies": {
-    "karma": "~2.0.0"
+    "karma": "~5.0.8",
+    "@snyk/protect": "latest"
   },
   "devDependencies": {
     "axios": "0.15"
   },
   "optionalDependencies": {
     "sync-exec": "0.6.2"
-  }
+  },
+  "scripts": {
+    "prepublish": "npm run snyk-protect",
+    "snyk-protect": "snyk-protect"
+  },
+  "snyk": true
 }
