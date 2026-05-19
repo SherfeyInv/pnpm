@@ -30,7 +30,7 @@
     "test": "pn compile"
   },
   "dependencies": {
-    "npm-packlist": "catalog:"
+    "npm-packlist": "6.0.0"
   },
   "devDependencies": {
     "@pnpm/fs.packlist": "workspace:*"
