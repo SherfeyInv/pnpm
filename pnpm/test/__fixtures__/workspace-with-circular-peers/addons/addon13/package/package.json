@@ -31,7 +31,7 @@
   "devDependencies": {
     "module5": "workspace:*",
     "module6": "workspace:*",
-    "@babel/core": "~7.24.7",
+    "@babel/core": "~8.0.1",
     "@babel/plugin-transform-typescript": "~7.24.7",
     "@babel/runtime": "~7.23.6",
     "@embroider/addon-dev": "~4.3.1",

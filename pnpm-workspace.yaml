@@ -71,7 +71,7 @@ auditConfig:
     - GHSA-w5hq-g745-h8pq
 
 catalog:
-  '@babel/core': ^7.29.7
+  '@babel/core': ^7.29.6
   '@babel/plugin-transform-explicit-resource-management': ^7.29.7
   '@changesets/cli': ^2.31.0
   '@commitlint/cli': ^20.5.3
