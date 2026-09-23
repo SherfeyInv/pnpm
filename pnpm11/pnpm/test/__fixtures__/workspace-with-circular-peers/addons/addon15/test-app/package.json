@@ -16,7 +16,7 @@
         "addon12": "workspace:*",
         "addon13": "workspace:*",
         "addon15": "workspace:*",
-        "@babel/core": "~7.24.7",
+        "@babel/core": "~8.0.1",
         "@babel/plugin-transform-class-static-block": "~7.24.7",
         "@ember-data/adapter": "~4.12.8",
         "@ember/optional-features": "~2.1.0",
@@ -101,6 +101,6 @@
         "stylelint-prettier": "~3.0.0",
         "stylelint-scss": "~6.1.0",
         "typescript": "5.3.3",
-        "webpack": "~5.94.0"
+        "webpack": "~5.109.2"
     }
 }
